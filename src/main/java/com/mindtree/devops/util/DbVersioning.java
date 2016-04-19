@@ -9,7 +9,7 @@ public class DbVersioning {
 		Flyway flyway = new Flyway();
 
         // Point it to the database
-        flyway.setDataSource("jdbc:mysql://52.62.103.134:3306/emporderdb","root","welcome123");
+        flyway.setDataSource("jdbc:mysql://52.74.180.125:3306/emporderdb","root","welcome123");
 
      
        
